@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432155177903",
+    "project_id": "daily-log-59cfa",
+    "storage_bucket": "daily-log-59cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432155177903:android:eb35c565433266380d755a",
+        "android_client_info": {
+          "package_name": "com.example.try2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgipxcP2e8ip11tf55hiMpykT6us5ERVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
